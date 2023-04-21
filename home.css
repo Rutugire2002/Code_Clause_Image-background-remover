@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(117, 235, 243);
+}
+img{
+    mix-blend-mode: multiply;
+    margin-left:400px;
+    margin-top:200px;
+    height:300px;
+}
